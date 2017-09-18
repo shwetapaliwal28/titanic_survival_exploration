@@ -1,2 +1,4 @@
-# titanic_survival_exploration-
-Project 0 - Optional Project for Machine Learning Engineer Nanodegree
+# titanic_survival_exploration
+Project 0 - Titanic Survival Exploration : Optional Project for Machine Learning Engineer Nanodegree
+
+In 1912, the ship RMS Titanic struck an iceberg on its maiden voyage and sank, resulting in the deaths of most of its passengers and crew. In this introductory project, we will explore a subset of the RMS Titanic passenger manifest to determine which features best predict whether someone survived or did not survive.
